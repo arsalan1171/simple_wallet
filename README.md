@@ -1,4 +1,4 @@
-# simple_wallet
+# simple_wallet_flutter
 Simple app prototype for demonstration purposes.
 
 
