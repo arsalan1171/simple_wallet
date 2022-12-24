@@ -1,0 +1,19 @@
+{
+    "messages":[
+        {
+            "id":"1",
+            "msg_contents":"Congratulations on reaching your savings goal!",
+            "date_created":"29 June 2021, 7.14 PM"
+        },
+        {
+            "id":"2",
+            "msg_contents":"You received a R 32.00 bonus for financial wellness.",
+            "date_created":"29 June 2021, 9.02 AM"
+        },
+        {
+            "id":"3",
+            "msg_contents":"Win R 10 000.00 for every R 500.00 you deposit!",
+            "date_created":"28 June 2021, 8.32 PM"
+        }
+    ]
+}

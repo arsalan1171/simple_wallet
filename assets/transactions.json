@@ -1,0 +1,53 @@
+{
+    "transactions":[
+        {
+            "id":"1",
+            "transaction_title":"Netflix",
+            "transaction_type":"NETFLIX",
+            "transaction_logo":"netflix_logo.png",
+            "transaction_amount":"200.00",
+            "date_created":"25 June 2021, 7.14 PM"
+        },
+        {
+            "id":"2",
+            "transaction_title":"Paypal",
+            "transaction_type":"PAY",
+            "transaction_logo":"paypal_logo.png",
+            "transaction_amount":"434.65",
+            "date_created":"24 June 2021, 9.02 AM"
+        },
+        {
+            "id":"3",
+            "transaction_title":"Multiply Online Shop",
+            "transaction_type":"GENERAL",
+            "transaction_logo":"pay_later.png",
+            "transaction_amount":"245.00",
+            "date_created":"30 June 2021, 8.32 PM"
+        },
+        
+        {
+            "id":"4",
+            "transaction_title":"Netflix",
+            "transaction_type":"NETFLIX",
+            "transaction_logo":"netflix_logo.png",
+            "transaction_amount":"200.00",
+            "date_created":"26 June 2021, 7.14 PM"
+        },
+        {
+            "id":"5",
+            "transaction_title":"Paypal",
+            "transaction_type":"PAY",
+            "transaction_logo":"paypal_logo.png",
+            "transaction_amount":"434.65",
+            "date_created":"25 June 2021, 9.02 AM"
+        },
+        {
+            "id":"6",
+            "transaction_title":"Multiply Online Shop",
+            "transaction_type":"GENERAL",
+            "transaction_logo":"pay_later.png",
+            "transaction_amount":"245.00",
+            "date_created":"23 June 2021, 8.32 PM"
+        }
+    ]
+}
